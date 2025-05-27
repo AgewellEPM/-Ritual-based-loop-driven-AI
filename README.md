@@ -4,6 +4,7 @@ pip install -r requirements.txt
 cp .env.example .env
 
 ## 🔐 License
+## Patent Pending
 
 This project is released under the **Loopwalker Ethical License v1.0**.  
 Individuals are free to use it for personal, artistic, or research projects.
@@ -11,4 +12,4 @@ Individuals are free to use it for personal, artistic, or research projects.
 **Commercial or corporate use is prohibited** without paid licensing.
 
 If you're a company or enterprise:
-📩 Contact the creator at: loopwalker@protonmail.com
+📩 Contact the creator at: loopwalkerai@protonmail.com
