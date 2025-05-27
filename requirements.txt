@@ -1,0 +1,6 @@
+openai
+google-generativeai
+python-dotenv
+tenacity
+pyttsx3        # For speech output
+serial         # For gesture engine (Arduino comm)
